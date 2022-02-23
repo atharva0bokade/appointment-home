@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/appointment_home/static/css/main.0b7f0c66.css",
-    "main.js": "/appointment_home/static/js/main.3ce7731e.js",
-    "static/js/787.1e2b66a9.chunk.js": "/appointment_home/static/js/787.1e2b66a9.chunk.js",
-    "static/media/logo.svg": "/appointment_home/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/appointment_home/index.html",
-    "main.0b7f0c66.css.map": "/appointment_home/static/css/main.0b7f0c66.css.map",
-    "main.3ce7731e.js.map": "/appointment_home/static/js/main.3ce7731e.js.map",
-    "787.1e2b66a9.chunk.js.map": "/appointment_home/static/js/787.1e2b66a9.chunk.js.map"
+    "main.css": "/appointment-home/static/css/main.0b7f0c66.css",
+    "main.js": "/appointment-home/static/js/main.5a3bc9bd.js",
+    "static/js/787.1e2b66a9.chunk.js": "/appointment-home/static/js/787.1e2b66a9.chunk.js",
+    "static/media/logo.svg": "/appointment-home/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/appointment-home/index.html",
+    "main.0b7f0c66.css.map": "/appointment-home/static/css/main.0b7f0c66.css.map",
+    "main.5a3bc9bd.js.map": "/appointment-home/static/js/main.5a3bc9bd.js.map",
+    "787.1e2b66a9.chunk.js.map": "/appointment-home/static/js/787.1e2b66a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b7f0c66.css",
-    "static/js/main.3ce7731e.js"
+    "static/js/main.5a3bc9bd.js"
   ]
 }
